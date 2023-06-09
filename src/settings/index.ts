@@ -1,0 +1,9 @@
+const APPLY_SETTING = {
+    STATUS_REJECT: 2,
+    STATUS_ACCEPUT: 1,
+    STATUS_PADDING: 0
+}
+
+export {
+    APPLY_SETTING
+}
